@@ -1,9 +1,10 @@
 {
+    "version": "2.0.0",
     "tasks": [
         {
             "type": "shell",
             "label": "C/C++: gcc.exe build active file",
-            "command": "E:\\mingw64\\bin\\gcc.exe",
+            "command": "D:\\Qt\\Tools\\mingw730_64\\bin\\gcc.exe",
             "args": [
                 "-g",
                 "${file}",
@@ -16,11 +17,7 @@
             "problemMatcher": [
                 "$gcc"
             ],
-            "group": {
-                "kind": "build",
-                "isDefault": true
-            }
+            "group": "build"
         }
-    ],
-    "version": "2.0.0"
+    ]
 }

@@ -10,7 +10,7 @@
                 "UNICODE",
                 "_UNICODE"
             ],
-            "compilerPath": "E:\\mingw64\\bin\\gcc.exe",
+            "compilerPath": "D:\\Qt\\Tools\\mingw730_64\\bin\\gcc.exe",
             "intelliSenseMode": "clang-x64"
         }
     ],
